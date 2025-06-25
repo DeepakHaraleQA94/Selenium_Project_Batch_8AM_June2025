@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-06-25T08:37:41 IST" name="Suite" finished-at="2025-06-25T08:40:48 IST" duration-ms="187006">
+    <groups>
+    </groups>
+    <test started-at="2025-06-25T08:37:41 IST" name="Test" finished-at="2025-06-25T08:40:48 IST" duration-ms="187006">
+      <class name="TestClasses.HomePageValidation">
+        <test-method signature="verifyHomePage()[pri:0, instance:TestClasses.HomePageValidation@291ae]" started-at="2025-06-25T08:37:41 IST" name="verifyHomePage" finished-at="2025-06-25T08:39:41 IST" duration-ms="119513" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePage -->
+      </class> <!-- TestClasses.HomePageValidation -->
+      <class name="TestClasses.AboutUsPageValidation">
+        <test-method signature="verifyHomePage()[pri:0, instance:TestClasses.AboutUsPageValidation@5119fb47]" started-at="2025-06-25T08:39:41 IST" name="verifyHomePage" finished-at="2025-06-25T08:40:48 IST" duration-ms="67400" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePage -->
+      </class> <!-- TestClasses.AboutUsPageValidation -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
