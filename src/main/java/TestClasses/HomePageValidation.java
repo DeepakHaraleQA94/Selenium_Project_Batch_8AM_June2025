@@ -21,6 +21,7 @@ public class HomePageValidation {
 		{
 			System.out.println("TC failed");
 		}
+		System.out.println("this is new file");
 		
 		driver.close();
 		
