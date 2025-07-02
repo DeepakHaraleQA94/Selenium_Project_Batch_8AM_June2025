@@ -27,6 +27,7 @@ public class AboutUsPageValidation {
 		{
 			System.out.println("TC failed");
 		}
+		System.out.println("new code updated");
 		
 		driver.close();
 		
